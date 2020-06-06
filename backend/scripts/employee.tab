@@ -1,0 +1,8 @@
+CREATE TABLE employee(
+	employee_id integer PRIMARY KEY,
+	employee_name VARCHAR (100) NOT NULL,
+	employee_base_location VARCHAR (50) NOT NULL,
+	employee_current_location VARCHAR (50) NOT NULL,
+	active_flag BOOLEAN DEFAULT true,
+	created_on TIMESTAMP NOT NULL
+);
