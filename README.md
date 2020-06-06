@@ -5,6 +5,7 @@
 1. [Short description](#short-description)
 1. [The architecture](#the-architecture)
 1. [Key Features](#key-features)
+1. [Project roadmap](#project-roadmap)
 
 ## Short description
 
@@ -40,3 +41,6 @@ People depend on Cafeterias for taking their foods (from vendors or home cooked)
 
 ### Technical Overview
 ![e-cafeteria Technical Overview](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Technical_View.png)
+
+## Project roadmap
+[Roadmap](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Road_Map.png)
