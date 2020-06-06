@@ -1,0 +1,7 @@
+        location = /.well-known/live {
+          return 200;
+        }
+
+        location = /.well-known/ready {
+          return 200;
+        }
