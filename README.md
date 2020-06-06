@@ -40,4 +40,8 @@ People depend on Cafeterias for taking their foods (from vendors or home cooked)
 
 ## The architecture
 
-![e-cafeteria app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+Logical Architecture
+![e-cafeteria Logical Architecture](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Logical_Architecture.png)
+
+Technical Overview
+![e-cafeteria Technical Overview](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Technical_View.png)
