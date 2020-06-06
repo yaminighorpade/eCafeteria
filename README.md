@@ -4,15 +4,7 @@
 
 1. [Short description](#short-description)
 1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
-1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-
+1. [Key Features](#key-features)
 
 ## Short description
 
@@ -38,10 +30,13 @@ People depend on Cafeterias for taking their foods (from vendors or home cooked)
   * Crowd management
   * Reduce touch points
 
+## Key Features
+![e-cafeteria Key Features](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Key_Features.png)
+
 ## The architecture
 
-Logical Architecture
+### Logical Architecture
 ![e-cafeteria Logical Architecture](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Logical_Architecture.png)
 
-Technical Overview
+### Technical Overview
 ![e-cafeteria Technical Overview](https://github.com/yaminighorpade/eCafeteria/blob/master/documentation/Technical_View.png)
