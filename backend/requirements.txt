@@ -1,6 +1,6 @@
 requests==2.21.0
 fastapi==0.44.0
-pydantic==1.2
+pydantic==1.6.2
 email-validator==1.0.4
 python-multipart==0.0.5
 gunicorn==19.9.0
